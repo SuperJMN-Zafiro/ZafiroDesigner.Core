@@ -18,7 +18,7 @@ namespace Designer.Core.Tools
                 Width = creationArea.Width,
                 Top = creationArea.Top,
                 Height = creationArea.Height,
-                Background = Color.FromArgb(255, 255, 255, 255),
+                Background = Color.FromArgb(255, 0, 0, 255),
                 BackgroundTint = 1,
                 Stroke = Color.FromArgb(255, 0, 0, 0),
                 StrokeThickness = 1,                
