@@ -5,12 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ReactiveUI" Version="11.0.1" />
+    <PackageReference Include="ReactiveUI" Version="11.2.3" />
+    <PackageReference Include="Zafiro.Core" Version="2.0.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Designer.Domain.Models\Designer.Domain.Models.csproj" />
-    <ProjectReference Include="..\Zafiro\Source\Zafiro.Core\Zafiro.Core.csproj" />
   </ItemGroup>
 
 </Project>
